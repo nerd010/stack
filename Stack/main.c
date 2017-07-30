@@ -2,7 +2,7 @@
 //  main.c
 //  Stack
 //
-//  Created by 王增康 on 16/2/20.
+//  Created by chw on 16/2/20.
 //  Copyright © 2016年 CHW. All rights reserved.
 //
 
